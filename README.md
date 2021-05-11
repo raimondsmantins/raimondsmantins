@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @raimondsmantins
+- 👀 I’m interested data analysis and Tableau dashbording 
+- 🌱 I’m currently learning Tableau Desktop dashboard creation and looking forward to study Alterix Designer.
+- 📫 How to reach me: raimondsmantins@gmail.com
